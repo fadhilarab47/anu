@@ -184,8 +184,8 @@ class Client(Methods):
             Defaults to 1.
     """
 
-    APP_VERSION = f"ArabPython {__version__}"
-    DEVICE_MODEL = f"ArabUbot"
+    APP_VERSION = f"Arab-pyrogram {__version__}"
+    DEVICE_MODEL = f"Arab-Pyro"
     SYSTEM_VERSION = f"Linux 64"
 
     LANG_CODE = "en"
